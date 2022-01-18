@@ -1,0 +1,15 @@
+{
+  "browserslist": "> 0%",
+  "devDependencies": {
+    "@babel/cli": "^7.16.8",
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.8",
+    "autoprefixer": "^10.4.2",
+    "eslint": "^8.7.0",
+    "postcss-cli": "^8.3.1",
+    "sass": "^1.48.0",
+    "simple-web-cli": "^3.1.12",
+    "uglify-js": "^3.14.5",
+    "web": "file:.library"
+  }
+}
